@@ -3,5 +3,6 @@
     echo "githubで更新";
     A_userが更新
     masterブランチで追記
+    branchで追記
 ?>
 
